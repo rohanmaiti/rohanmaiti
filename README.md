@@ -54,7 +54,7 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px; margin:30px;">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; margin:30px;">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rohanmaiti&count_private=true&theme=github_dark&border_radius=10" alt="streak stats" />
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=rohanmaiti&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
