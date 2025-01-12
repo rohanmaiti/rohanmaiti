@@ -46,16 +46,17 @@
   style="display: flex; justify-content: space-around; align-items: stretch; gap: 40px; flex-wrap: wrap;"
 >
   <img 
-    style="width: 390px; height: 250px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaiti&langs_count=10&layout=compact&theme=github_dark" 
-    alt="Top Languages" 
+    style="width: 390px; height: auto; border-radius: 10px;" 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rohanmaiti&count_private=true&theme=github_dark&border_radius=10" 
+    alt="Streak Stats" 
   />
   <img 
-    style="width: 390px; height: 250px;" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanmaiti&theme=github_dark" 
-    alt="Productive Time" 
+    style="width: 390px; height: auto; border-radius: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=rohanmaiti&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" 
+    alt="Readme Stats" 
   />
 </div>
+
 
 
 <br />
