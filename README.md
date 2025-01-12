@@ -42,16 +42,17 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rohanmaiti&count_private=true&theme=github_dark&hide_border=true" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rohanmaiti&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" alt="Readme Stats" />
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rohanmaiti&count_private=true&theme=github_dark&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rohanmaiti&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="Readme Stats" />
 </div>
 
 <br />
 
-<div align="center" style="display: flex; justify-content: space-around; gap: 40px;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaiti&langs_count=10&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanmaiti&theme=github_dark&hide_border=true" alt="Productive Time" />
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 40px;">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmaiti&langs_count=10&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohanmaiti&theme=github_dark" alt="Productive Time" />
 </div>
+
 
 
 <br />
