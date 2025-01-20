@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/_rohanmaiti/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://ankan-ghorai.onrender.com/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/rohanmaiti">
