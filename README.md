@@ -94,11 +94,11 @@
 
 <div align="center">
   <img width="1001" src="https://ghchart.rshah.org/rohanmaiti" alt="Contribution Chart" />
-  <br /><hr />
+<!--   <br /><hr /> -->
 <!--   <img width="1001" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanmaiti&theme=github_dark" alt="Profile Details" /> -->
-  <br /><hr />
+<!--   <br /><hr /> -->
 <!--   <img width="1001" src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmaiti&theme=react-dark&hide_border=true" alt="Activity Graph" /> -->
-  <br /><hr />
+<!--   <br /><hr /> -->
 </div>
 
 <div align="center">
