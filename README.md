@@ -101,6 +101,4 @@
   <br /><hr />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/last-commit/rohanmaiti/rohanmaiti?style=for-the-badge&color=539BF5&labelColor=0D1117&logo=github" />
-</div>
+
