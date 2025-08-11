@@ -97,8 +97,11 @@
   <br /><hr />
 <!--   <img width="1001" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohanmaiti&theme=github_dark" alt="Profile Details" /> -->
   <br /><hr />
-  <img width="1001" src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmaiti&theme=react-dark&hide_border=true" alt="Activity Graph" />
+<!--   <img width="1001" src="https://github-readme-activity-graph.vercel.app/graph?username=rohanmaiti&theme=react-dark&hide_border=true" alt="Activity Graph" /> -->
   <br /><hr />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/rohanmaiti/rohanmaiti?style=for-the-badge&color=539BF5&labelColor=0D1117&logo=github" />
+</div>
 
