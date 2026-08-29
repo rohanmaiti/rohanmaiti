@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=900&height=70&duration=3700&lines=Hey+there!+👋;+I'm+Rohan+Maiti.;" />
 </h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Engineer. I love building products and creating great customer experiences.</h3>
 <hr />
 
 
